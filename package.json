@@ -1,0 +1,17 @@
+{
+  "name": "coleretec",
+  "version": "1.0.0",
+  "description": "Art gallery school project.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
